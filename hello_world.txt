@@ -1,1 +1,1 @@
-Adding some stuff here to see the changes.
+Adding some stuff here to see the changes. Adding a little more to see what happens when I commit using VSCode to add a message.
